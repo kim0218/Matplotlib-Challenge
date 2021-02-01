@@ -1,0 +1,13 @@
+# Matplotlib Homework - Summary of Results
+
+The pymaceuticals study consists of 249 total mouse combine with two datadsets. for the course of 45 days, tumor development was observed and measured. The purpose of this study was to compare the performance of Pymaceuticals' drug of interest, Capomulin, versus the other treatment regimens. You have been tasked by the executive team to generate all of the tables and figures needed for the technical report of the study. The executive team also has asked for a top-level summary of the study results.
+
+Observation points:
+    1. Base on the bar chart,"Drug Regiment" Capomulin and Ramicane are the most effective and complitable in the treating the mouse. While           Infubinol and Ceftamin
+    2. Per Pie chart - the distribution based on the sex is almost at the same level, Male=50.6% and Female = 49.4%
+    
+    3. Scatter plot indicates that the heavier the mouse the less effective the drug result is.
+    
+    4. There is one outlier found in infulbinol.
+    
+    5. This homework was very challenging... 
